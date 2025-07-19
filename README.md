@@ -34,7 +34,7 @@ lib/
 └── signuppage.dart
 
 ![Login UI](https://github.com/EmanMohamed7612/Flutter/blob/main/lib/Screens/login.png)
-![Sign Up UI](screenshots/signup.png)
+![Sign Up UI](https://github.com/EmanMohamed7612/Flutter/blob/main/lib/Screens/signup.png)
 
 ## 🚀 Getting Started
 
